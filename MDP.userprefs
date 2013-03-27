@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Entities\Tower.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Demos/TestMover.cs">
     <Files>
-      <File FileName="Assets\Scripts\Utility\MDPUtility.cs" Line="25" Column="6" />
-      <File FileName="Assets\Scripts\Entities\Tower.cs" Line="2" Column="34" />
+      <File FileName="Assets/Scripts/Demos/TestMover.cs" Line="13" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
